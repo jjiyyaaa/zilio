@@ -10,7 +10,7 @@ Personal portfolio website of **Ghaziya Manna Putri Iwadani** — an Informatics
 
 ## Live Demo
 
-[> Add your deployed URL here after publishing (e.g. Vercel, Netlify, or GitHub Pages).](https://zilio.vercel.app/)
+https://zilio.vercel.app/
 
 ---
 
