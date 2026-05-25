@@ -8,12 +8,12 @@ const LandingHero = ({ onExplore }) => {
       {/* Background soft focus elements */}
       <div className="beach-orb orb-1"></div>
       <div className="beach-orb orb-2"></div>
-      
+
       <div className="landing-content">
         {/* Row of animated social media icons in Teal */}
         <div className="social-row landing-socials">
           <a
-            href="https://linkedin.com/in/ghaziyamp"
+            href="https://linkedin.com/in/ghaziya-manna-putri-iwadani"
             target="_blank"
             rel="noopener noreferrer"
             className="social-icon"
@@ -22,7 +22,7 @@ const LandingHero = ({ onExplore }) => {
             <Linkedin size={20} />
           </a>
           <a
-            href="https://instagram.com/jjiyyaaa"
+            href="https://instagram.com/g.ghzz"
             target="_blank"
             rel="noopener noreferrer"
             className="social-icon"

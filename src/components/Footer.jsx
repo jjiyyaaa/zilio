@@ -8,7 +8,7 @@ const Footer = () => {
         {/* Social Icons row */}
         <div className="social-row footer-socials">
           <a
-            href="https://linkedin.com/in/ghaziyamp"
+            href="https://linkedin.com/in/ghaziya-manna-putri-iwadani"
             target="_blank"
             rel="noopener noreferrer"
             className="social-icon footer-icon"
@@ -17,7 +17,7 @@ const Footer = () => {
             <Linkedin size={16} />
           </a>
           <a
-            href="https://instagram.com/jjiyyaaa"
+            href="https://instagram.com/g.ghzz"
             target="_blank"
             rel="noopener noreferrer"
             className="social-icon footer-icon"
@@ -40,7 +40,7 @@ const Footer = () => {
         <p className="footer-credits">
           Designed & Developed by <span className="footer-brand">jjiyyaaa</span> | &copy; 2026
         </p>
-        
+
         <p className="footer-walkway-txt">
           Walking into the sunset, synthesizing ideas into impact.
         </p>
